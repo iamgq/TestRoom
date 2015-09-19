@@ -20,6 +20,9 @@ namespace TestRoom
         private void button1_Click(object sender, EventArgs e)
         {
             // just a test
+            // 1. Clone Repo
+            // 2. Checkout "NewFeature" branch
+            // 3. I am going to edit and commit to "NewFeature" branch
         }
     }
 }
