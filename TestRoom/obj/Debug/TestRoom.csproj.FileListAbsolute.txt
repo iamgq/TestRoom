@@ -19,3 +19,4 @@ C:\Users\kelvinyip\Documents\GitHub\TestRoom2\TestRoom\obj\Debug\TestRoom.csproj
 C:\Users\kelvinyip\Documents\GitHub\TestRoom2\TestRoom\obj\Debug\TestRoom.exe
 C:\Users\kelvinyip\Documents\GitHub\TestRoom2\TestRoom\obj\Debug\TestRoom.pdb
 >>>>>>> f30492d284d63e2e00f732ab6e3f7188178dd716
+C:\Users\kelvinyip\Documents\GitHub\TestRoom\TestRoom\obj\Debug\TestRoom.NewFeature.resources
