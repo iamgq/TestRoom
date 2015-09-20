@@ -1,4 +1,5 @@
 C:\Users\kelvinyip\Documents\GitHub\TestRoom\TestRoom\bin\Debug\TestRoom.exe.config
+<<<<<<< HEAD
 C:\Users\kelvinyip\Documents\GitHub\TestRoom\TestRoom\bin\Debug\TestRoom.exe
 C:\Users\kelvinyip\Documents\GitHub\TestRoom\TestRoom\bin\Debug\TestRoom.pdb
 C:\Users\kelvinyip\Documents\GitHub\TestRoom\TestRoom\obj\Debug\TestRoom.csprojResolveAssemblyReference.cache
@@ -7,3 +8,14 @@ C:\Users\kelvinyip\Documents\GitHub\TestRoom\TestRoom\obj\Debug\TestRoom.Propert
 C:\Users\kelvinyip\Documents\GitHub\TestRoom\TestRoom\obj\Debug\TestRoom.csproj.GenerateResource.Cache
 C:\Users\kelvinyip\Documents\GitHub\TestRoom\TestRoom\obj\Debug\TestRoom.exe
 C:\Users\kelvinyip\Documents\GitHub\TestRoom\TestRoom\obj\Debug\TestRoom.pdb
+=======
+C:\Users\kelvinyip\Documents\GitHub\TestRoom2\TestRoom\bin\Debug\TestRoom.exe.config
+C:\Users\kelvinyip\Documents\GitHub\TestRoom2\TestRoom\bin\Debug\TestRoom.exe
+C:\Users\kelvinyip\Documents\GitHub\TestRoom2\TestRoom\bin\Debug\TestRoom.pdb
+C:\Users\kelvinyip\Documents\GitHub\TestRoom2\TestRoom\obj\Debug\TestRoom.csprojResolveAssemblyReference.cache
+C:\Users\kelvinyip\Documents\GitHub\TestRoom2\TestRoom\obj\Debug\TestRoom.Form1.resources
+C:\Users\kelvinyip\Documents\GitHub\TestRoom2\TestRoom\obj\Debug\TestRoom.Properties.Resources.resources
+C:\Users\kelvinyip\Documents\GitHub\TestRoom2\TestRoom\obj\Debug\TestRoom.csproj.GenerateResource.Cache
+C:\Users\kelvinyip\Documents\GitHub\TestRoom2\TestRoom\obj\Debug\TestRoom.exe
+C:\Users\kelvinyip\Documents\GitHub\TestRoom2\TestRoom\obj\Debug\TestRoom.pdb
+>>>>>>> f30492d284d63e2e00f732ab6e3f7188178dd716
