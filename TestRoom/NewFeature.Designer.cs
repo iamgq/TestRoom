@@ -37,7 +37,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(233, 142);
             this.button1.TabIndex = 0;
-            this.button1.Text = "Launch";
+            this.button1.Text = "Launch Again";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // NewFeature
